@@ -1,0 +1,25 @@
+Y29	5 samples 20150805/Analysis-24902892/Y29/Data/Intensities/BaseCalls/LC2-Y29_S21_L001_R2_001.fastq.gz	5 samples 20150805/Analysis-24902892/Y29/Data/Intensities/BaseCalls/LC2-Y29_S21_L001_R1_001.fastq.gz	HH-HL-T1-0521-53strains	Changed  High Methane High oxygen to High Methane Low oxygen
+Y25	5 samples 20150805/Analysis-24902892/Y25/Data/Intensities/BaseCalls/LC2-Y25_S68_L001_R1_001.fastq.gz	5 samples 20150805/Analysis-24902892/Y25/Data/Intensities/BaseCalls/LC2-Y25_S68_L001_R2_001.fastq.gz	original-50strains-a	Initial samples
+Y27	5 samples 20150805/Analysis-24902892/Y27/Data/Intensities/BaseCalls/LC2-Y27_S92_L001_R1_001.fastq.gz	5 samples 20150805/Analysis-24902892/Y27/Data/Intensities/BaseCalls/LC2-Y27_S92_L001_R2_001.fastq.gz	HL-T6-0715-53strains	High Methane Low oxygen
+Y26	5 samples 20150805/Analysis-24902892/Y26/Data/Intensities/BaseCalls/LC2-Y26_S80_L001_R2_001.fastq.gz	5 samples 20150805/Analysis-24902892/Y26/Data/Intensities/BaseCalls/LC2-Y26_S80_L001_R1_001.fastq.gz	original-50strains-b	Initial samples
+Y28	5 samples 20150805/Analysis-24902892/Y28/Data/Intensities/BaseCalls/LC2-Y28_S9_L001_R1_001.fastq.gz	5 samples 20150805/Analysis-24902892/Y28/Data/Intensities/BaseCalls/LC2-Y28_S9_L001_R2_001.fastq.gz	HM-LM-T1-0521-53strains	Changed  High Methane Medium oxygen to Low Methane Medium oxygen
+YZ2	4 samples 20150709/16S_Analysis-23967945/YZ2/Data/Intensities/BaseCalls/LC1-2_S62_L001_R1_001.fastq.gz	4 samples 20150709/16S_Analysis-23967945/YZ2/Data/Intensities/BaseCalls/LC1-2_S62_L001_R2_001.fastq.gz	HH-T10-0514-53strains	High Methane High oxygen
+YZ3	4 samples 20150709/16S_Analysis-23967945/YZ3/Data/Intensities/BaseCalls/LC1-3_S74_L001_R2_001.fastq.gz	4 samples 20150709/16S_Analysis-23967945/YZ3/Data/Intensities/BaseCalls/LC1-3_S74_L001_R1_001.fastq.gz	HLNO3-T1-0618-50strains	High Methane Low oxygen
+YZ4	4 samples 20150709/16S_Analysis-23967945/YZ4/Data/Intensities/BaseCalls/LC1-4_S86_L001_R1_001.fastq.gz	4 samples 20150709/16S_Analysis-23967945/YZ4/Data/Intensities/BaseCalls/LC1-4_S86_L001_R2_001.fastq.gz	LM-T3-0601-53strains	Low Methane Medium oxygen
+YZ1	4 samples 20150709/16S_Analysis-23967945/YZ1/Data/Intensities/BaseCalls/LC1-1_S50_L001_R1_001.fastq.gz	4 samples 20150709/16S_Analysis-23967945/YZ1/Data/Intensities/BaseCalls/LC1-1_S50_L001_R2_001.fastq.gz	original-50strains	Initial samples
+NZY1			original-50strains-a	Initial samples
+NZY2			original-50strains-b	Initial samples
+NZY3			HHNO3-T0-0601-50strains	High Methane High oxygen and Nitrate
+NZY4			HHNO3-T8-0621-50strains	High Methane High oxygen  and Nitrate
+NZY5			HHNH4-T0-0601-50strains	High Methane High oxygen  and Ammonium
+NZY6			HHNH4-T8-0621-50strains	High Methane high oxygen and Ammonium
+ZY1		original-53 strains	Initial samples
+ZY7		HH-T0-0420-53strains	High Methane High oxygen
+ZY8		HH-T10-0514-53strains	High Methane High oxygen
+ZY4		HM-T0-0420-53strains	High Methane Middle oxygen
+ZY6		HM-T4-0503-53strains	High Methane Middle oxygen
+ZY5		HM-T8-0514-53strains	High Methane Middle oxygen
+ZY2		HL-T1-0503-53strains-a	High Methane Low oxygen
+ZY3		HL-T1-0503-53strains-b	High Methane Low oxygen
+ZY9		LM-T1-0503-53strains-a	Low Methane Middle oxygen
+ZY10		LM-T1-0503-53strains-b	Low Methane Middle oxygen
